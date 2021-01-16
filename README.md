@@ -8,8 +8,5 @@
 pip install -r requirements.txt
 ```
 ```
-pip install jupyterlab
-```
-```
 jupyter lab
 ```
